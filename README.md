@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tdamelin2
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in data analysis and coding 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me taldamelin@gmail.com
