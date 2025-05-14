@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tdamelin2
-- 👀 I’m interested in data science and coding 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Data Science, Business Analysis, and AI
+- 🌱 I’m currently learning Business and Economics at Reichman University 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me taldamelin@gmail.com
 
